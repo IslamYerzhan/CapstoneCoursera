@@ -52,11 +52,11 @@ tags$hr(),
 tags$br(),
 
 tags$span(style="color:grey", 
-          tags$footer(("© 2015 - "), 
+          tags$footer(("© 2019 - "), 
                       tags$a(
                               href="http://nierhoff.info",
                               target="_blank",
-                              "Maximilian H. Nierhoff."), 
+                              "Islam Yerzhan."), 
                       tags$br(),
                       ("Built with"), tags$a(
                               href="http://www.r-project.org/",
