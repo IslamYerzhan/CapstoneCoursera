@@ -1,12 +1,4 @@
-################# ~~~~~~~~~~~~~~~~~ ######## ~~~~~~~~~~~~~~~~~ #################
-##                                                                            ##
-##                        Data Science Capstone Project                       ##
-##                                                                            ##            
-##                 Maximilian H. Nierhoff (http://nierhoff.info)              ##
-##                                                                            ##
-##           Github Repo: https://github.com/mhnierhoff/CapstoneCoursera      ##
-##                                                                            ##
-################# ~~~~~~~~~~~~~~~~~ ######## ~~~~~~~~~~~~~~~~~ #################
+
 
 suppressPackageStartupMessages(c(
         library(shinythemes),
