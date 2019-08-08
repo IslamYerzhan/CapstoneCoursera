@@ -50,19 +50,6 @@ tabPanel("Next Word Prediction",
          )
 ),
 
-############################### ~~~~~~~~2~~~~~~~~ ##############################
-## Tab 2 - About 
-
-tabPanel("About This Application",
-         fluidRow(
-                 column(2,
-                        p("")),
-                 column(8,
-                        includeMarkdown("./about/about.md")),
-                 column(2,
-                        p(""))
-         )
-),
 
 ############################### ~~~~~~~~F~~~~~~~~ ##############################
 
